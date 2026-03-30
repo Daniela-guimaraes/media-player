@@ -21,7 +21,7 @@ const song1 ={
     songName: 'Van Life Rager',
     bandName: 'Everet Almond',
     cover: '1.jpg',
-    song: '1.mp3',
+    song: 'https://vulngdvlutyofacmgzwn.supabase.co/storage/v1/object/public/Songs/1.mp3',
     liked: false
 };
 
@@ -29,21 +29,21 @@ const song2 ={
     songName: 'By Myself',
     bandName: 'The Grey Room/Clark Sims',
     cover: '2.jpg',
-    song: '2.mp3',
+    song: 'https://vulngdvlutyofacmgzwn.supabase.co/storage/v1/object/public/Songs/2.mp3',
     liked: false
 };
 const song3 ={
     songName: 'Precious Girl',
     bandName: 'Ryan Stasik, Kanika Moore',
     cover: '3.jpg',
-    song: '3.mp3',
+    song: 'https://vulngdvlutyofacmgzwn.supabase.co/storage/v1/object/public/Songs/3.mp3',
     liked: false
 };
 const song4 ={
     songName: 'Country sky',
     bandName: 'Telecasted',
     cover: '4.jpg',
-    song: '4.mp3',
+    song: 'https://vulngdvlutyofacmgzwn.supabase.co/storage/v1/object/public/Songs/4.mp3',
     liked: false
 };
 
